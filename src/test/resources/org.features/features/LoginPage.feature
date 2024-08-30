@@ -1,4 +1,4 @@
-@smoke
+@smoke                       //add in regression also
 Feature:Login page features
 Scenario:verify login page fields
 Given user is on login page
